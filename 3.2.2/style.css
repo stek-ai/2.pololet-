@@ -1,0 +1,33 @@
+body {
+    background-color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+
+    color: greenyellow;
+    font-size: 15px;
+}
+
+h1, h2 {
+    color: blue;
+    text-align: center;
+}
+div {
+    background-color: aliceblue;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 20px;
+    
+}
+.info {
+    color: blue;
+    background-color: rgb(174, 255, 127);
+    width: 10%;
+}
+.warning {
+    color: red;
+    background-color: lightcoral;
+}
+p:last-child {
+    color: blueviolet;
+}
