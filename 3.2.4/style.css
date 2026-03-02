@@ -1,0 +1,41 @@
+h2 {
+    background: rgb(186, 147, 231);
+}
+div {
+    background-color: rgb(159, 159, 230)
+}
+p {
+    background: rgb(92, 190, 190);
+}
+ul {
+    background: rgb(92, 194, 194);
+}
+
+a, button, strong {
+    background: rgb(183, 154, 211);
+}
+
+.d1 {
+    display: inline;
+    border: 2px solid black;
+    background: rgb(230, 87, 134);
+    width: 50%;
+}
+
+.b1 {
+    display: inline-block;
+    background: rgb(233, 251, 152);
+    width: 180px;
+    height: 80px;
+}
+
+.e1 {
+    background: rgb(55, 211, 55);
+    width: 200px;
+    height: 200px;
+    border: 5px solid green;
+    text-align: center;
+    border-radius: 150px;
+    place-content: center;
+    
+}
