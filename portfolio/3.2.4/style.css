@@ -1,0 +1,47 @@
+div {
+    width: 300px;
+    height: 400px;
+    background-color: rgb(175, 203, 212);
+    border-radius: 15px;
+    place-items: center;
+}
+
+h1 {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(32, 32, 241);
+    color: white;
+    border-radius: 50px;
+    display: grid;
+    place-items: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    width: 95px;
+    height: 40px;
+    background-color: rgb(125, 186, 206);
+    border-radius: 15px;
+    text-align: center;
+    color: blue;
+}
+
+h5 {
+    width: 150px;
+    height: 40px;
+    background-color: rgb(45, 45, 216);
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    text-align: center;
+    font-size: 15px ;
+    color: rgb(217, 231, 231);
+    
+}
